@@ -16,7 +16,9 @@
 
 # How to Get Started:
 
-🚀 Install --> [Releases]() ![Boost Logo](metamask.gif)
+🚀 Install --> [Releases]()
+
+ ![Boost Logo](metamask.gif)
 
 We welcome contributions from the community! Whether it's bug fixes, new features, or optimizations, feel free to open a pull request. If you encounter any issues or have suggestions, please open an issue – we value your feedback!
 
